@@ -1,2 +1,7 @@
 security:
-ignored: true
+basic:
+enabled: false
+
+management:
+security:
+enabled: false
